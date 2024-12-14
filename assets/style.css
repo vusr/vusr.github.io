@@ -1,6 +1,6 @@
 /* Make the page content wider */
 body {
-    max-width: 2000px; /* Set the maximum width */
+    max-width: 1920px; /* Set the maximum width */
     margin: auto; /* Center the content */
     padding: 20px;
 }
