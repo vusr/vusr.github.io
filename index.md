@@ -11,8 +11,8 @@ Experienced Computer Vision and Machine Learning Engineer with a strong backgrou
 
 ## Skills
 - **Programming**: Python, C++, MATLAB
-- **Frameworks & Tools**: PyTorch, TensorFlow, OpenCV, Ultralytics, Autodistill
-- **Machine Learning Techniques**: Self-Supervised Learning, Object Detection, Tracking, Segmentation, Activity Recognition, CNNs, Transformers, LSTMs, Classification, Regression
+- **Frameworks & Tools**: PyTorch, TensorFlow, OpenCV, Ultralytics, Autodistill, PlantCV
+- **Machine Learning Techniques**: Self-Supervised Learning, Vision-Language Models, CLIP, YOLO, Object Detection, Tracking, Segmentation, Activity Recognition, CNNs, Transformers, LSTMs, Classification, Regression
 - **Data Tools**: Pandas, NumPy, Scikit-Learn, SQL
 - **Other**: Hardware Integration, Data Collection & Labeling, Algorithm & Pipeline Design, GUI Development
 
@@ -29,6 +29,7 @@ CGPA: 8.57/10
 ### Graduate Assistant Research
 Texas A&M Institute of Data Science, College Station, TX | Jun 2024 – May 2025  
 •	Designing a computer vision pipeline for early detection of Bovine Respiratory Disease (BRD) in beef cattle.
+•	CLIP-based activity recognition system in beef cattle.
 •	Integrated object detection and segmentation models to locate cows, track movements, and perform activity recognition.
 •	Identifying sick cows by analyzing activity levels, contributing to improved cattle health monitoring systems.
 
