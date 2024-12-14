@@ -38,6 +38,26 @@ CGPA: **8.57/10**
 
 ---
 
+## **Hackathons & Competitions**  
+
+🏆 **2nd Place** – *American Airlines Hackathon* | **Feb 2024**  
+Built a **destination recommender** system using collaborative filtering techniques.
+
+🏆 **2nd Place** – *AgriTech Challenge, TAMU Datathon* | **Nov 2024**  
+Developed a **CNN-based cotton field detector** using satellite imagery and weather data.
+
+🏆 **4th Place** – *MLCAS Corn Yield Prediction Challenge* | **Oct 2024**  
+Designed a **multi-modal CNN** combining satellite images and numerical data to predict corn yield.
+
+---
+
+## **Workshops & Presentations**
+
+- **Plant Phenotyping Workshop** – *AI in Agriculture 2024* | [**Colab Notebook**](https://colab.research.google.com/drive/1nbNQPilXnFsftwtq1V7HHdjqUguVKGK4?usp=sharing)  
+- **Poster Presentation** – *Texas A&M Beef Sustainability Summit* | [**View Poster**](media/datathon_poster.pdf)  
+
+---
+
 ## **Research Experience**
 
 ### **Graduate Assistant Research**  
@@ -73,26 +93,6 @@ CGPA: **8.57/10**
 
 ---
 
-## **Hackathons & Competitions**  
-
-🏆 **2nd Place** – *American Airlines Hackathon* | **Feb 2024**  
-Built a **destination recommender** system using collaborative filtering techniques.
-
-🏆 **2nd Place** – *AgriTech Challenge, TAMU Datathon* | **Nov 2024**  
-Developed a **CNN-based cotton field detector** using satellite imagery and weather data.
-
-🏆 **4th Place** – *MLCAS Corn Yield Prediction Challenge* | **Oct 2024**  
-Designed a **multi-modal CNN** combining satellite images and numerical data to predict corn yield.
-
----
-
-## **Workshops & Presentations**
-
-- **Plant Phenotyping Workshop** – *AI in Agriculture 2024* | [**Colab Notebook**](https://colab.research.google.com/drive/1nbNQPilXnFsftwtq1V7HHdjqUguVKGK4?usp=sharing)  
-- **Poster Presentation** – *Texas A&M Beef Sustainability Summit* | [**View Poster**](media/datathon_poster.pdf)  
-
----
-
 ## **Certifications & Awards**
 
 🏅 **American Airlines Hackathon** – **2nd Place**  
@@ -100,7 +100,6 @@ Designed a **multi-modal CNN** combining satellite images and numerical data to 
 🏅 **MLCAS Corn Yield Prediction** – **4th Place**  
 
 ---
-
 ## **Get in Touch**  
 
 If you'd like to collaborate, discuss my projects, or connect professionally, feel free to [email me](mailto:uday@tamu.edu) or reach out through [LinkedIn](https://www.linkedin.com/in/uday-santhosh-raju-v/).
