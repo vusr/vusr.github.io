@@ -1,8 +1,8 @@
 title: AI Solutions for Real-World Challenges
-theme: jekyll-theme-minimal
+remote_theme: mmistakes/minimal-mistakes
+plugins:
+  - jekyll-include-cache
 include: 
   - assets/style.css
-plugins:
-  - jekyll-sass-converter
 sass:
   style: compressed
