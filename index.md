@@ -2,8 +2,7 @@
 layout: default
 ---
 
-# Uday Santhosh Raju Vysyaraju
-
+## Contact
 [College Station, Texas] | [+19794224723] | [uday@tamu.edu] | [LinkedIn Profile](https://www.linkedin.com/in/uday-santhosh-raju-v/) | [GitHub Profile](https://github.com/vusr)
 
 ## Summary
