@@ -9,7 +9,8 @@ layout: default
 [College Station, Texas] | [+1 979-422-4723] | [uday@tamu.edu]  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/uday-santhosh-raju-v/) [![GitHub](https://img.shields.io/badge/GitHub-Profile-black)](https://github.com/vusr)
 
----
+
+ 
   \\
   \\
   \\
