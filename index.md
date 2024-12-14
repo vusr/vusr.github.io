@@ -4,7 +4,7 @@ layout: default
 
 # Uday Santhosh Raju Vysyaraju  
 
-<img src="media/profile_picture.jpg" alt="Profile Picture" style="width:300px; float:left; margin-right:15px; border-radius:10%;"> \\
+<img src="media/profile_picture.jpg" alt="Profile Picture" style="width:300px; margin-right:15px; border-radius:10%;">
 
 [College Station, Texas] | [+1 979-422-4723] | [uday@tamu.edu]  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/uday-santhosh-raju-v/) [![GitHub](https://img.shields.io/badge/GitHub-Profile-black)](https://github.com/vusr) \\
