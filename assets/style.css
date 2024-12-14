@@ -1,0 +1,27 @@
+/* Make the page content wider */
+body {
+    max-width: 1200px; /* Set the maximum width */
+    margin: auto; /* Center the content */
+    padding: 20px;
+}
+
+/* Optional: Adjust the header and text styling */
+h1, h2, h3 {
+    margin-top: 20px;
+    font-weight: bold;
+}
+
+img {
+    display: block;
+    margin: 20px auto;
+}
+
+/* Links and buttons for better spacing */
+a {
+    color: #0366d6;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
