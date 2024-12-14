@@ -2,74 +2,105 @@
 layout: default
 ---
 
-## Contact
-[College Station, Texas] | [+19794224723] | [uday@tamu.edu] | [LinkedIn Profile](https://www.linkedin.com/in/uday-santhosh-raju-v/) | [GitHub Profile](https://github.com/vusr)
+# Uday Santhosh Raju Vysyaraju  
+[College Station, Texas] | [+1 979-422-4723] | [uday@tamu.edu]  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/uday-santhosh-raju-v/) [![GitHub](https://img.shields.io/badge/GitHub-Profile-black)](https://github.com/vusr)
 
-## Summary
-Experienced Computer Vision and Machine Learning Engineer with a strong background in developing end-to-end solutions for object detection, segmentation, tracking, and behavior recognition. Skilled in designing machine learning pipelines, data preprocessing, and deploying scalable systems. Proven success in research and industry projects, including expertise in analyzing satellite imagery for agricultural applications, delivering practical, high-impact results.
+---
 
-## Skills
-- **Programming**: Python, C++, MATLAB
-- **Frameworks & Tools**: PyTorch, TensorFlow, OpenCV, Ultralytics, Autodistill, PlantCV
-- **Machine Learning Techniques**: Self-Supervised Learning, Vision-Language Models, CLIP, YOLO, Object Detection, Tracking, Segmentation, Activity Recognition, CNNs, Transformers, LSTMs, Classification, Regression
-- **Data Tools**: Pandas, NumPy, Scikit-Learn, SQL
-- **Other**: Hardware Integration, Data Collection & Labeling, Algorithm & Pipeline Design, GUI Development
+## **Summary**  
+Computer Vision and Machine Learning Engineer with a proven track record of building end-to-end AI solutions in **object detection, tracking, segmentation, and behavior recognition**. Passionate about leveraging advanced machine learning techniques to solve **real-world challenges** in industries ranging from **agriculture** to **healthcare**. Experienced in delivering high-impact results through innovative model design, data pipelines, and scalable systems.
 
-## Education
+---
+
+## **Skills**
+
+**Programming Languages:** Python, C++, MATLAB  
+**Frameworks & Tools:** PyTorch, TensorFlow, OpenCV, Ultralytics, Autodistill, PlantCV  
+**Techniques:** Object Detection (YOLO), Segmentation, Tracking, Self-Supervised Learning, CLIP, Transformers, CNNs, LSTMs  
+**Data Tools:** Pandas, NumPy, Scikit-Learn, SQL  
+**Other Skills:** Data Collection & Labeling, Algorithm Design, GUI Development, Hardware Integration  
+
+---
+
+## **Education**
+
 **Master of Science in Data Science**  
-Texas A&M University, College Station, TX | May 2025  
-Focus: Computer Science Engineering | CGPA: 4.0/4.0
+*Texas A&M University*, College Station, TX | **May 2025**  
+CGPA: **4.0/4.0** | Focus: Computer Science & Engineering  
 
 **Bachelor & Master of Technology in Electronics & Electrical Communication Engineering**  
-Indian Institute of Technology Kharagpur, India | Jul 2018  
-CGPA: 8.57/10
+*Indian Institute of Technology Kharagpur*, India | **Jul 2018**  
+CGPA: **8.57/10**  
 
-## Research Experience
-### Graduate Assistant Research
-Texas A&M Institute of Data Science, College Station, TX | Jun 2024 – May 2025  
-•	Designing a computer vision pipeline for early detection of Bovine Respiratory Disease (BRD) in beef cattle.
-•	CLIP-based activity recognition system in beef cattle.
-•	Integrated object detection and segmentation models to locate cows, track movements, and perform activity recognition.
-•	Identifying sick cows by analyzing activity levels, contributing to improved cattle health monitoring systems.
+---
 
-### Graduate Researcher
-Advanced Vision and Learning Lab, Texas A&M University | Jan 2024 – Aug 2024  
-•	Developed a large-scale automated plant phenotyping pipeline for agricultural research.
-•	Designed modules for data preprocessing, plant feature extraction, and statistics generation using computer vision.
-•	Built an interactive GUI for user-friendly plant phenotype analysis.
+## **Research Experience**
 
-## Industry Experience
-### AI Specialist Researcher
-LG, Seoul, South Korea | Sep 2018 – Sep 2022  
-•	X-ray Object Detection: Improved X-ray detection accuracy by 7% (mAP: 90 → 97) using GAN-based synthetic datasets, switch normalization, and multi-scale training.
-•	Smart CCTV System: Developed a real-time CCTV solution with object detection and tracking for people counting and loitering detection; optimized RTSP streaming and multi-channel support.
-•	Analog & Digital Meter Reading: Achieved 85% accuracy in meter reading using CNN-based custom models and robust data augmentation pipelines.
-•	Object Detection Service: Implemented a versatile object detection system based on EfficientDet for inspection services.
-•	Smart Retail Store Automation: Enhanced product recognition with limited data via few-shot learning and image processing (SIFT, SURF).
+### **Graduate Assistant Research**  
+*Texas A&M Institute of Data Science* | **Jun 2024 – May 2025**  
+- Designed a **computer vision pipeline** for **early detection of Bovine Respiratory Disease** (BRD) in beef cattle.  
+- Developed a **CLIP-based activity recognition** system for cow movement analysis.  
+- Integrated detection and segmentation models to track cow activity and monitor behavior.  
 
-### Digital VLSI Intern
-Texas Instruments, Bengaluru, India | May 2017 – Jul 2017  
-• Integrated and validated Cadence Elastic Compression architecture on a System-on-Chip, contributing to published research.
+### **Graduate Researcher**  
+*Advanced Vision and Learning Lab, Texas A&M* | **Jan 2024 – Aug 2024**  
+- Built a **large-scale automated plant phenotyping pipeline** for agricultural analysis.  
+- Designed modules for **data preprocessing, plant feature extraction**, and **visual analysis**.  
+- Developed a user-friendly **GUI** for streamlined plant phenotype exploration.  
 
-### R&D Intern
-Jana Care, Bengaluru, India | May 2016 – Jul 2016  
-•	Designed and prototyped a docking system for a mobile blood analyzer device, including firmware documentation.
+---
 
-## Hackathons & Competitions
-- **2nd Place**: American Airlines Operations Research & Advanced Analytics Hackathon, Dallas, TX | Feb 2024 \\
- Built a destination recommender using collaborative filtering and similarity-matching techniques.
-- **2nd Place**: AgriTech Challenge, TAMU Datathon, College Station, TX | Nov 2024 \\
- Implemented a CNN-based cotton field detector using satellite imagery and weather data.
-- **4th Place**: Corn Yield Prediction Challenge, MLCAS 2024, Lincoln, NE | Oct 2024 \\
- Designed a multi-modal CNN using satellite images and numerical features to predict corn yield.
+## **Industry Experience**
 
-## Workshops & Poster presentations
-- **Plant Phenotyping Workshop**, [AI in Agriculture 2024](https://agriliferegister.tamu.edu/website/63088/https://agriliferegister.tamu.edu/website/63088/) | Apr 2024 \\
- Workshop [notebook](https://colab.research.google.com/drive/1nbNQPilXnFsftwtq1V7HHdjqUguVKGK4?usp=sharing)
-- **Poster Presentation**, Texas A&M Beef Sustainability Summit | Nov 2024 \\
- [poster](media/datathon_poster.pdf)
+### **AI Specialist Researcher**  
+*LG Electronics*, Seoul, South Korea | **Sep 2018 – Sep 2022**  
+- **X-ray Detection**: Improved detection accuracy by **7%** using **GAN-based synthetic datasets**.  
+- **Smart CCTV System**: Deployed real-time **object tracking** for crowd monitoring and loitering detection.  
+- **Analog Meter Reading**: Achieved **85% accuracy** using **CNN-based custom models** and robust augmentation.  
+- **Smart Retail Automation**: Enhanced product recognition using **few-shot learning** and image processing techniques.
 
-## Certifications & Awards
-- **American Airlines Hackathon – 2nd Place**
-- **TAMU Datathon AgriTech Challenge – 2nd Place**
-- **MLCAS Corn Yield Prediction  – 4th Place**
+### **Digital VLSI Intern**  
+*Texas Instruments*, Bengaluru, India | **May 2017 – Jul 2017**  
+- Integrated **Cadence Elastic Compression architecture** on System-on-Chip.
+
+### **R&D Intern**  
+*Jana Care*, Bengaluru, India | **May 2016 – Jul 2016**  
+- Designed and prototyped a **docking system** for a mobile blood analyzer.
+
+---
+
+## **Hackathons & Competitions**  
+
+🏆 **2nd Place** – *American Airlines Hackathon* | **Feb 2024**  
+Built a **destination recommender** system using collaborative filtering techniques.
+
+🏆 **2nd Place** – *AgriTech Challenge, TAMU Datathon* | **Nov 2024**  
+Developed a **CNN-based cotton field detector** using satellite imagery and weather data.
+
+🏆 **4th Place** – *MLCAS Corn Yield Prediction Challenge* | **Oct 2024**  
+Designed a **multi-modal CNN** combining satellite images and numerical data to predict corn yield.
+
+---
+
+## **Workshops & Presentations**
+
+- **Plant Phenotyping Workshop** – *AI in Agriculture 2024* | [**Colab Notebook**](https://colab.research.google.com/drive/1nbNQPilXnFsftwtq1V7HHdjqUguVKGK4?usp=sharing)  
+- **Poster Presentation** – *Texas A&M Beef Sustainability Summit* | [**View Poster**](media/datathon_poster.pdf)  
+
+---
+
+## **Certifications & Awards**
+
+🏅 **American Airlines Hackathon** – **2nd Place**  
+🏅 **TAMU Datathon AgriTech Challenge** – **2nd Place**  
+🏅 **MLCAS Corn Yield Prediction** – **4th Place**  
+
+---
+
+## **Get in Touch**  
+
+If you'd like to collaborate, discuss my projects, or connect professionally, feel free to [email me](mailto:uday@tamu.edu) or reach out through [LinkedIn](https://www.linkedin.com/in/uday-santhosh-raju-v/).
+
+---
+
