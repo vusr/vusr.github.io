@@ -10,9 +10,9 @@ layout: default
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/uday-santhosh-raju-v/) [![GitHub](https://img.shields.io/badge/GitHub-Profile-black)](https://github.com/vusr)
 
 ---
-
-
-
+  \\
+  \\
+  \\
   
 ## **Summary**  
 Computer Vision and Machine Learning Engineer with a proven track record of building end-to-end AI solutions in **object detection, tracking, segmentation, and behavior recognition**. Passionate about leveraging advanced machine learning techniques to solve **real-world challenges** in industries ranging from **agriculture** to **healthcare**. Experienced in delivering high-impact results through innovative model design, data pipelines, and scalable systems.
