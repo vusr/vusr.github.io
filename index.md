@@ -56,12 +56,12 @@ Jana Care, Bengaluru, India | May 2016 – Jul 2016
 •	Designed and prototyped a docking system for a mobile blood analyzer device, including firmware documentation.
 
 ## Hackathons & Competitions
-- **2nd Place**: American Airlines Operations Research & Advanced Analytics Hackathon, Dallas, TX | Feb 2024
-* Built a destination recommender using collaborative filtering and similarity-matching techniques.
-- **2nd Place**: AgriTech Challenge, TAMU Datathon, College Station, TX | Nov 2024
-* Implemented a CNN-based cotton field detector using satellite imagery and weather data.
-- **4th Place**: Corn Yield Prediction Challenge, MLCAS 2024, Lincoln, NE | Oct 2024
-* Designed a multi-modal CNN using satellite images and numerical features to predict corn yield.
+- **2nd Place**: American Airlines Operations Research & Advanced Analytics Hackathon, Dallas, TX | Feb 2024 \\
+ Built a destination recommender using collaborative filtering and similarity-matching techniques.
+- **2nd Place**: AgriTech Challenge, TAMU Datathon, College Station, TX | Nov 2024 \\
+ Implemented a CNN-based cotton field detector using satellite imagery and weather data.
+- **4th Place**: Corn Yield Prediction Challenge, MLCAS 2024, Lincoln, NE | Oct 2024 \\
+ Designed a multi-modal CNN using satellite images and numerical features to predict corn yield.
 
 ## Workshops & Poster presentations
 - **Plant Phenotyping Workshop**, [AI in Agriculture 2024](https://agriliferegister.tamu.edu/website/63088/https://agriliferegister.tamu.edu/website/63088/) | Apr 2024
