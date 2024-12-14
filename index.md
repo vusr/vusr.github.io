@@ -65,10 +65,10 @@ Jana Care, Bengaluru, India | May 2016 – Jul 2016
  Designed a multi-modal CNN using satellite images and numerical features to predict corn yield.
 
 ## Workshops & Poster presentations
-- **Plant Phenotyping Workshop**, [AI in Agriculture 2024](https://agriliferegister.tamu.edu/website/63088/https://agriliferegister.tamu.edu/website/63088/) | Apr 2024
-* Workshop [notebook](https://colab.research.google.com/drive/1nbNQPilXnFsftwtq1V7HHdjqUguVKGK4?usp=sharing)
-- **Poster Presentation**, Texas A&M Beef Sustainability Summit | Nov 2024
-* [poster](media/datathon_poster.pdf)
+- **Plant Phenotyping Workshop**, [AI in Agriculture 2024](https://agriliferegister.tamu.edu/website/63088/https://agriliferegister.tamu.edu/website/63088/) | Apr 2024 \\
+ Workshop [notebook](https://colab.research.google.com/drive/1nbNQPilXnFsftwtq1V7HHdjqUguVKGK4?usp=sharing)
+- **Poster Presentation**, Texas A&M Beef Sustainability Summit | Nov 2024 \\
+ [poster](media/datathon_poster.pdf)
 
 ## Certifications & Awards
 - **American Airlines Hackathon – 2nd Place**
