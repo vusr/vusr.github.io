@@ -13,7 +13,7 @@ css: assets/style.css
 ---
   
 ## **Summary**  
-Computer Vision and Machine Learning Engineer with a proven track record of building end-to-end AI solutions in **object detection, tracking, segmentation, and behavior recognition**. Passionate about leveraging advanced machine learning techniques to solve **real-world challenges** in industries ranging from **agriculture** to **healthcare**. Experienced in delivering high-impact results through innovative model design, data pipelines, and scalable systems.
+Computer Vision and Machine Learning Engineer with extensive experience in building end-to-end AI solutions for object detection, tracking, segmentation, and behavior recognition. Committed to applying advanced machine learning techniques to address real-world challenges across industries such as agriculture and healthcare. Skilled at achieving meaningful outcomes through creative model design, efficient data pipelines, and scalable system implementation.
 
 ---
 
