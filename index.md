@@ -7,7 +7,8 @@ css: assets/style.css
 
 <img src="media/profile_picture.jpg" alt="Profile Picture" style="width:300px; margin-right:15px; border-radius:12%;">
 
-[College Station, Texas] | [+1 979-422-4723] | [uday@tamu.edu] | Check out my [Resume](media/Uday_Santhosh_Raju_Resume_General.pdf)
+[College Station, Texas] | [+1 979-422-4723] | [uday@tamu.edu]  
+Check out my [Resume](media/Uday_Santhosh_Raju_Resume_General.pdf)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/uday-santhosh-raju-v/) [![GitHub](https://img.shields.io/badge/GitHub-Profile-black)](https://github.com/vusr)
 
 ---
@@ -20,10 +21,10 @@ Computer Vision and Machine Learning Engineer with 6+ years of experience buildi
 ## **Skills**
 
 **Programming Languages:** Python, C++, MATLAB  
-**Frameworks & Tools:** PyTorch, TensorFlow, OpenCV, Ultralytics, Autodistill, PlantCV, Apache AirFlow, Docker, Git, TensorRT
-**Techniques:** Multi-Modal Regression & Classification, Image Classification, Object Detection, Instance Segmentation, Tracking, Activity Recognition, Behavior Analysis, Self-Supervised Learning, CLIP, Transformers, CNNs, LSTMs, Vision Language Models (VLMs)
-**Data Tools:** Pandas, NumPy, Scikit-Learn, SQL
-**Other Skills:** ML Model deployment, Dataset engineering, Data Collection & Labeling, Algorithm Design, GUI Development, Hardware Integration, ML Model Fitting, Fine-tuning, Optimization, 
+**Frameworks & Tools:** PyTorch, TensorFlow, OpenCV, Ultralytics, Autodistill, PlantCV, Apache AirFlow, Docker, Git, TensorRT  
+**Techniques:** Multi-Modal Regression & Classification, Image Classification, Object Detection, Instance Segmentation, Tracking, Activity Recognition, Behavior Analysis, Self-Supervised Learning, CLIP, Transformers, CNNs, LSTMs, Vision Language Models (VLMs)  
+**Data Tools:** Pandas, NumPy, Scikit-Learn, SQL  
+**Other Skills:** ML Model deployment, Dataset engineering, Data Collection & Labeling, Algorithm Design, GUI Development, Hardware Integration, ML Model Fitting, Fine-tuning, Optimization  
 
 ---
 
