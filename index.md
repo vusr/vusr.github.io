@@ -8,7 +8,7 @@ css: assets/style.css
 <img src="media/profile_picture.jpg" alt="Profile Picture" style="width:300px; margin-right:15px; border-radius:12%;">
 
 [College Station, Texas] | [+1 979-422-4723] | [uday@tamu.edu]  
-Check out my [Resume](media/Uday_Santhosh_Raju_Resume_General.pdf)  
+Check out my [Resume](media/Uday_Santhosh_Raju_Resume.pdf)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/uday-santhosh-raju-v/) [![GitHub](https://img.shields.io/badge/GitHub-Profile-black)](https://github.com/vusr)
 
 ---
