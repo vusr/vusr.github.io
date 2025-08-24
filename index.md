@@ -6,11 +6,11 @@ title: Uday Vysyaraju
 <br>
 **📚  Master of Science in Data Science** &emsp; &emsp; &emsp; &emsp; &emsp; &nbsp; *Aug 2023 – May 2025*  
 &emsp; *Texas A&M University, College Station, Texas*  
-&emsp; **CGPA 4.0 / 4.0**
+&emsp;
 
 **📚  Bachelor & Master of Technology, Electronics**  &emsp; *Jul 2013 – Jul 2018*  
 &emsp; *Indian Institute of Technology, Kharagpur*  
-&emsp; **CGPA 8.6 / 10.0**  <br><br><br>
+&emsp;  <br><br><br>
   
 <h2 style="color: gray;">Projects</h2>
 ### 🖥️  Vision-Language & Multimodal AI for Strep Throat (StrepApp)  
