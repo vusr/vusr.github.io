@@ -1,6 +1,11 @@
-title: AI Solutions for Real-World Challenges
-theme: jekyll-theme-minimal 
-include: 
-  - assets/style.css
-sass:
-  style: compressed
+title: Uday Vysyaraju
+logo: "/media/profile_picture.jpg?raw=true"
+description: 
+  <br>
+  Developing Vision AI at AusculTech DX <br>
+  M.S. Data Science from Texas A&M <br>
+  Ex - AI Researcher at LG <br>
+  <br><br>
+  <a href="https://www.linkedin.com/in/uday-santhosh-raju-v/">View My LinkedIn Profile</a> 
+  
+remote_theme: pages-themes/minimal@v0.2.0
