@@ -107,7 +107,7 @@ title: Uday Vysyaraju
 > - **End-to-End AI Systems** – Built and deployed full pipelines including preprocessing, model training, inference, evaluation, and optimization for real-world applications.
 > - **Deployment & Scalability** – Hands-on experience with Docker, RTSP streaming, and multi-channel video systems for scalable AI deployment.
 > - **Domain Adaptation** – Applied cross-domain datasets, transfer learning, and few-shot learning to handle limited or imbalanced data.
-> - **Industry Applications** – Delivered AI solutions for X-ray screening, manufacturing defect detection, smart surveillance, retail checkout automation, and utility meter reading.Authored reports on profit analysis and operational issues for SK Group’s senior management, providing key insights for strategic decision-making. 
+> - **Industry Applications** – Delivered AI solutions for X-ray screening, manufacturing defect detection, smart surveillance, retail checkout automation, and utility meter reading
 
 <br><br>
 <h2 style="color: gray;">Skills</h2>
